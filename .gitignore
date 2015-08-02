@@ -1,4 +1,9 @@
-node_modules/
-bower_components/
+node_modules
+public
+.tmp
 .sass-cache
-.DS_Store
+.idea
+client/bower_components
+dist
+/server/config/local.env.js
+npm-debug.log
