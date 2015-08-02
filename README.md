@@ -1,3 +1,5 @@
-Angular-Gulp + Express Generator thrown into server folder
+#RentShak Staging
 
-Only Git is Heroku - if you push the Git deltas, you'll have to change the server start path and nothing would look different since angular is at a higher level than the assumed root
+Starting from Angular Fullstack Generator from [Yeoman](http://yeoman.io) by @DaftMonk
+
+More to come later
